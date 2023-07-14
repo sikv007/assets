@@ -1,11 +1,12 @@
 {
   "name": "@sikv007/assets",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/sikv007/assets/"
   },
   "private": false,
-  "version": "0.0.3s",
+  "version": "0.0.4",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
