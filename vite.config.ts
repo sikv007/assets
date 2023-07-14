@@ -13,7 +13,7 @@ export default defineConfig({
   build: {
     lib: {
       entry: path.resolve(__dirname, 'src/components/index.ts'),
-      name: 'MyLib',
+      name: 'assets',
       formats: ['es', 'umd'],
       fileName: (format) => `assets.${format}.js`,
     },
