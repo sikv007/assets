@@ -1,1 +1,2 @@
-export * from "./Button";
+export type { IButton } from './Button';
+export { Button } from './Button';

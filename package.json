@@ -6,7 +6,7 @@
     "url": "https://github.com/sikv007/assets/"
   },
   "private": false,
-  "version": "0.0.5",
+  "version": "0.0.6",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
